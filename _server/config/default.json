@@ -1,0 +1,4 @@
+{
+  "mongodbURI":"mongodb+srv://ecommerce:255370@mernecommerce-jcuyt.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret":"mysecresttoken"
+}

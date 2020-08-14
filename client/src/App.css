@@ -1,0 +1,11 @@
+.card img {
+  height: 300px;
+  width: 280px;
+}
+
+.banner_part {
+  background: url("https://image.shutterstock.com/image-photo/beautiful-dressy-lush-pink-blue-600w-1125508877.jpg");
+  background-size: cover;
+  background-position: center;
+  padding: 600px 0px;
+}
